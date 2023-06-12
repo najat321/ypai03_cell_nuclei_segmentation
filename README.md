@@ -35,32 +35,24 @@ Here's a step-by-step guide on how to install and run this project:
 ## Output of this project
 #### i. Model Accuracy:
 
-![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_concrete_cracks_classification/main/Model%20Accuracy.PNG)
+![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_cell_nuclei_segmentation/main/Model%20Accuracy.PNG)
 
 #### ii. Model Architecture:
 
-![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_concrete_cracks_classification/main/Model%20Architecture.PNG)
-
-#### iii. Transfer Learning Model Architecture:
-
- ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_concrete_cracks_classification/main/Model%20Architecture_2%20-Follow-up%20training.PNG)
+![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_cell_nuclei_segmentation/main/U_net%20Model%20Architecture.PNG)
  
-#### iv. Model Evaluation Before Training:
+#### iii. Training Process Accuracy:
 
- ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_concrete_cracks_classification/main/Model%20Evaluation%20after%20training.PNG)
+ ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_cell_nuclei_segmentation/main/Training%20Process_Acuuracy.PNG)
  
-#### v. Model Evaluation After Training:
+#### iv. Training Process Loss:
 
- ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_concrete_cracks_classification/main/Model%20Evaluation%20before%20training.PNG)
+ ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_cell_nuclei_segmentation/main/Training%20Process_Loss.PNG)
  
-#### v. Training Process Accuracy:
+#### v. Model Deployment (Predictions):
 
- ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_concrete_cracks_classification/main/Training%20process_accuracy.PNG)
- 
-#### v. Training Process Loss:
-
- ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_concrete_cracks_classification/main/Training%20process_loss.PNG)
+ ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_cell_nuclei_segmentation/main/Model%20Deployment.PNG)
 
 ## Source of datasets : 
-https://data.mendeley.com/datasets/5y9wdsg2zt/2 
+https://www.kaggle.com/competitions/data-science-bowl-2018/overview
 
