@@ -35,23 +35,23 @@ Here's a step-by-step guide on how to install and run this project:
 ## Output of this project
 #### i. Model Accuracy:
 
-![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_cell_nuclei_segmentation/main/Model%20Accuracy.PNG)
+![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_cell_nuclei_segmentation/main/Model_Accuracy.PNG)
 
 #### ii. Model Architecture:
 
-![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_cell_nuclei_segmentation/main/U_net%20Model%20Architecture.PNG)
+![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_cell_nuclei_segmentation/main/U_net%20Model%20Architecture1.PNG)
  
 #### iii. Training Process Accuracy:
 
- ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_cell_nuclei_segmentation/main/Training%20Process_Acuuracy.PNG)
+ ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_cell_nuclei_segmentation/main/Training%20Process_Accuracy.PNG)
  
 #### iv. Training Process Loss:
 
- ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_cell_nuclei_segmentation/main/Training%20Process_Loss.PNG)
+ ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_cell_nuclei_segmentation/main/Training_Process_Loss.PNG)
  
 #### v. Model Deployment (Predictions):
 
- ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_cell_nuclei_segmentation/main/Model%20Deployment.PNG)
+ ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_cell_nuclei_segmentation/main/Model_Deployment.PNG)
 
 ## Source of datasets : 
 https://www.kaggle.com/competitions/data-science-bowl-2018/overview
